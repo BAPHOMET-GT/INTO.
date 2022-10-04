@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bafometo
-- 👀 I’m interested in develop app and remot acces.
+- 👀 I’m interested in develop apps´s and remot acces.
 - 🌱 I’m currently learning java script and workin in a organic estore.
 - 💞️ I’m looking to collaborate on microverse proyects and finis mi own web page.
 - 📫 How to reach me 
